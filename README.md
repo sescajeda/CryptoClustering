@@ -8,6 +8,8 @@ In this repo you will find a Crypto_Clustering.ipynb file that contains the code
 You will also find a Resources folder that contains the crypto_market_data.csv file that was used for the this assignment.  
 
 # Analysis
+![image](https://github.com/user-attachments/assets/b0d8449a-db27-4142-b033-a65e4607360d)
+
 
 Question: After visually analyzing the cluster analysis results, what is the impact of using fewer features to cluster the data using K-Means?
 
